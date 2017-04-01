@@ -40,3 +40,4 @@ See an extension that you think should be included? Create an [issue](https://gi
 
 [HTML SCSS Support](https://marketplace.visualstudio.com/items?itemName=P-de-Jong.vscode-html-scss): SCSS support for HTML documents
 
+[Quokka](https://marketplace.visualstudio.com/items?itemName=WallabyJs.quokka-vscode): The Live Scratchpad for JavaScript
